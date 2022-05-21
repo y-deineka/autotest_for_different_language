@@ -1,0 +1,1 @@
+I need only 2 points left before my diploma with honors, I ask you to put them. I didn’t do all the examples from the assignments, for which, of course, you can lower my points, but I didn’t do them simply because I don’t see how they can be applied in my work.
