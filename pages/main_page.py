@@ -14,3 +14,5 @@ class MainPage(BasePage):
         assert self.browser.find_element(*MainPageLocators.LOGIN_LINK), "Login link is not presented"
 
 
+
+
